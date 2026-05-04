@@ -42,24 +42,6 @@
 </details>
 
 ---
-
-<!-- STATS -->
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMiteiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMiteiro&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
-<!-- STREAK -->
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeonardoMiteiro&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <!-- SKILLS -->
 
 <h2 align="center">🔥 Skills</h2>
