@@ -11,7 +11,6 @@
 <p align="center">
   Hi 👋, I'm Leonardo <br>
   💻 16 years old developer from Brazil <br>
-  🚀 Looking for my first job opportunity
 </p>
 
 ---
