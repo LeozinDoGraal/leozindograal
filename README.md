@@ -9,8 +9,7 @@
 <!-- INTRO -->
 
 <p align="center">
-  Hi 👋, I'm Leonardo <br>
-  💻 16 years old developer from Brazil <br>
+ Cybersecurity student, 16 years old, fluent in English, high school student, working at an accounting firm in the digital security sector.
 </p>
 
 ---
