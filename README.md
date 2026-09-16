@@ -16,10 +16,6 @@
 
 <!-- SOCIAL BADGES -->
 
-<p align="center">
-  <a href="https://www.youtube.com/@LeonardoMiteiro">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
   <a href="https://discord.gg/28f8b76Z5w">
     <img src="https://img.shields.io/badge/Discord-Entrar-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
